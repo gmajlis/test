@@ -11,4 +11,4 @@ dev:
     # when changes are detected.
     - internal/watch:
         code: python app.p
-        reload: true 
+        reload: true
