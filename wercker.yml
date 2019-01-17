@@ -10,5 +10,5 @@ dev:
     # then we want to run a wercker step that watches your files and reloads
     # when changes are detected.
     - internal/watch:
-        code: python app.py
+        code: python app.p
         reload: true 
